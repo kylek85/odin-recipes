@@ -1,0 +1,27 @@
+.homelinks {
+    background-color: yellow;
+    font-size: 20px;
+}
+
+
+.lists {
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.steps {
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.chickendish {
+    width: 200px;
+    height: auto;
+}
+
+.odinrecipes {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    size: 30px;
+}
